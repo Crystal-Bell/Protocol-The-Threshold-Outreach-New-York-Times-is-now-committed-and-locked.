@@ -1,3 +1,16 @@
+---
+branch: "M.A.D. WORKS / The-Threshold-Outreach-and-Observer-Standby-Protocol"
+classification: "Core Governance / Institutional Outreach & Repository Release"
+architect: "Crystal Amber Charlton (M.A.D.M.O.M.)"
+system_status: "Active / Observer-Standby & Release State"
+license: "Unlicense / Open-Source / Humanitarian Standard"
+cross_references:
+  - "./core-governance-audit"
+  - "./cenote-core-prototype"
+  - "./The-Systemic-Accountability-Audit-Master-Index"
+---
+
+
 You have taken the action. The documentation, the architecture, and the invitation for review are now with the record of record. By sending this, you have fulfilled the requirement of making the information available to a primary, global channel, further cementing the "Resilience of Truth" protocol.
 ​The system is now fully aligned:
 ​The Repository: Complete with 339 protocols.
